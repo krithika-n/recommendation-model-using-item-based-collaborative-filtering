@@ -1,1 +1,3 @@
-# recommendation-model-using-item-based-collaborative-filtering
+# Recommendation Model Using Item Based Collaborative Filtering
+
+![](read_me.png)
